@@ -1,0 +1,12 @@
+{
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "emmet.variables": {
+    
+    },
+    "editor.formatOnSave": true,
+    "formattingToggle.affects": [
+        "formatOnPaste",
+        "formatOnSave",
+        "formatOnType"
+    ]
+}
